@@ -16,15 +16,13 @@ color_scheme: uj-light
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-title: [Prognisk]
-description: [Programowanie niskopoziomowe]
+title: [BaCa - doc]
+description: [BaCa - dokumentacja dla prowadzących]
 #show_downloads: [false]
 
 nav_external_links:
-  - title: Strona wykładu
-    url: https://ww2.ii.uj.edu.pl/~kapela/pn/
-  - title: Biblioteka ASM64_IO
-    url: https://tomasz-kapela.github.io/asm64_io/
+  - title: BaCa
+    url: https://baca.ii.uj.edu.pl/
     hide_icon: true # set to true to hide the external link icon - defaults to false
 
 
@@ -32,7 +30,7 @@ url: https://tomasz-kapela.github.io # the base hostname & protocol for your sit
 #url: https://ww2.ii.uj.edu.pl # the base hostname & protocol for your site
 
 # baseurl: /my-webpage # the subpath of your site, e.g. /blog/
-baseurl: /prognisk/  # the subpath of your site, e.g. /blog/
+baseurl: /baca-doc/  # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
